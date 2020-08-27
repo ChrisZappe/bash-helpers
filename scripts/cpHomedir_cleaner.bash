@@ -2,6 +2,8 @@
 
 # This script was created to automate the task of migrating a Mac user's
 # home folder to a clean directory with the same short name.
+# It is designed to specifically run on a Mac server and to prompt for 
+# user group information that categorizes network user accounts.
 # Scripted by Chris Zappe, with his newfound bash powers.
 # January 2018
 
