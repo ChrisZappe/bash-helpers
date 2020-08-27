@@ -1,5 +1,5 @@
 # bash-helpers
-Repository of simple shell scripts written to automate common tasks
+Repository of simple shell scripts written to automate some common tasks in a Mac server-client environment
 
 ### cpHomedir_cleaner.bash
   Copies the contents of a corrupt home directory to a fresh directory with the same name. Mac Server version.
